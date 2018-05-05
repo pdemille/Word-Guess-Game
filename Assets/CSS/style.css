@@ -1,0 +1,113 @@
+body, html {
+
+    height: 100%;
+
+    width:100%;
+
+    margin:0;
+
+}
+
+.bg {
+
+    /* The image used */
+
+    background-image: url("https://i.pinimg.com/originals/c6/fa/75/c6fa754991c6633ffc6d24808c6a4e30.jpg");
+
+ 
+
+    /* Full height */
+
+    height: 100%;
+
+ 
+
+    /* Center and scale the image nicely */
+
+    background-position: center;
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+
+}                   
+
+ 
+
+.footer {
+
+    position: fixed;
+
+    left: 0;
+
+    bottom: 0;
+
+    width: 100%;
+
+    padding: 20pt;
+
+    background-color: white;
+
+    color: black;
+
+    text-align: center;
+
+}
+
+ 
+
+h1 {
+
+    letter-spacing: 3px;
+
+    text-align: center;
+
+}
+
+ 
+
+#word-bank {
+
+    font-weight: bold;
+
+}
+
+ 
+
+p {
+
+    letter-spacing: 3px;
+
+    text-align: center;
+
+}
+
+ 
+
+h3 {
+
+    letter-spacing: 6px;
+
+    text-align: center;
+
+    font-weight: bold;
+
+}
+
+ 
+
+iframe {
+
+    width:100%;
+
+    height:20%;
+
+}
+
+.h_iframe {
+
+    height: 100%;
+
+    width:100%;
+
+}
